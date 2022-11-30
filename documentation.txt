@@ -1,0 +1,11 @@
+1. pipenv install for create a virtual environment
+
+2. create a github repository django-real-state
+add gitignore file in terminal
+> npx gitignore python
+> git init
+> git remote add origin https://github.com/Bashar-The-Coder/django-real-state.git
+accept proper setting of git
+> git remote -v
+
+3. django-admin startproject real_state .
